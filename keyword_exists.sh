@@ -37,4 +37,5 @@ function keywords_in_xml {
 keywords_in_xml
 
 
-
+#$bash keyword_exist.sh
+#-> Keywords found:  AppSec, Application, Security,
